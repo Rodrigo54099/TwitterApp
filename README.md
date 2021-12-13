@@ -23,7 +23,16 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-## Part 1: 
+## Part 1: Logging into the App
 
 <img src='https://media.giphy.com/media/IZkMZgw8CSHykeJEuJ/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+## Part 2: Launchung in After Closing(Logged In/Logged Out)
+
+<img src='https://media.giphy.com/media/QWt4SjwamqqqR9jYWQ/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+## Part 3: Stretch Features
+
+<img src='https://media.giphy.com/media/CsJOgHcz4XPKjLxDIf/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
