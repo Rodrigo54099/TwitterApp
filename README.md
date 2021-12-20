@@ -1,8 +1,8 @@
-# Project 3 - *Twitter App Part 1*
+# Project 3 - *Twitter App Part 1 and 2*
 
 **Twitter Clone* is a basic twitter app to read your tweets.
 
-Time spent: **3** hours spent in total
+Time spent for Part 1: **3** hours spent in total
 
 ## User Stories
 
@@ -34,5 +34,39 @@ Here's a walkthrough of implemented user stories:
 ## Part 3: Stretch Features
 
 <img src='https://media.giphy.com/media/CsJOgHcz4XPKjLxDIf/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
+# Twitter - Part II
+
+This is a basic twitter app to view, compose, favorite, and retweet tweets.
+
+Time spent for Part 2: **2.5** hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+- [x] User can compose a tweet. (4pts)
+- [x] User can favorite a tweet. (4pts)
+- [x] User can retweet a tweet. (2pts)
+
+The following **bonus** features are implemented:
+
+- [ ] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 280) (2pts)
+- [ ] User can view their profile in a profile tab. (3pts)
+- [ ] User sees embedded images in tweet if available. (3pts)
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+## Part 1: User can compose a tweet
+
+<img src='https://media.giphy.com/media/0UAu82g8GHYgpZwMsS/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+## Part 2: User can favorite/unfavorite and retweet a tweet
+
+<img src='https://media.giphy.com/media/auyI1AZHzbm6GXGzc5/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 
